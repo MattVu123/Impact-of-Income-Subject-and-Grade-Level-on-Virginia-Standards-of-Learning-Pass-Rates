@@ -1,4 +1,5 @@
-Impact of Income, Subject, and Grade Level on Virginia Standards of Learning Pass 
+**Impact of Income, Subject, and Grade Level on Virginia Standards of Learning Pass** 
+---
 
 •	Performed a time-series and regression analysis to investigate the impact of income, subject, and grade level on Virginia school division-wise SOL pass rates
 •	Used Python (pandas, geopandas, numpy) for data cleaning and map creation, R (tidyverse) for graphing, and SQL for summary statistics
